@@ -1,4 +1,4 @@
-package com.maygul.game.rsp;
+package com.maygul.game.rsp.api;
 
 import com.maygul.game.rsp.common.api.response.BaseEnumResponse;
 import com.maygul.game.rsp.service.enums.ActionService;
